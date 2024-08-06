@@ -194,5 +194,7 @@ body::-webkit-scrollbar-track{
         width:80%;
         margin-top: 20px;
     }
-    
+    .recipe-details{
+        width: 85%;
+    }
 }
